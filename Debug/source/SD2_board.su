@@ -1,0 +1,9 @@
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_clock.h:437:20:CLOCK_EnableClock	24	static
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_gpio.h:374:20:GPIO_PortSet	16	static
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_gpio.h:389:20:GPIO_PortClear	16	static
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_gpio.h:404:20:GPIO_PortToggle	16	static
+C:\Users\Walte\Documents\MCUXpressoIDE_24.12.148\workspace\SD2_1_MCXC444_Plancha1_Prob2\drivers/fsl_gpio.h:427:24:GPIO_PinRead	16	static
+../source/SD2_board.c:70:6:board_init	32	static
+../source/SD2_board.c:131:6:board_setLed	16	static
+../source/SD2_board.c:152:6:board_getSw	16	static
